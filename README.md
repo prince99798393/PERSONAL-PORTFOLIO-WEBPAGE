@@ -20,3 +20,4 @@ A standout feature of this portfolio is the dynamic 3D animation powered by Thre
 Each section of the webpage is tailored to present the user’s accomplishments effectively. The “Projects” section highlights major achievements, such as hackathon wins, technical publications, and open-source contributions. The “Skills” section lists technical proficiencies, while the “Contact” section includes direct links to email, GitHub, and LinkedIn profiles. The portfolio is designed to leave a lasting impression on recruiters, clients, or collaborators.platforms.
 
 *OUTPUT*:
+![Uploading PORT.png…]()
